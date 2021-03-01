@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="ejercicio6.xsl"?>
+
+<VarryBrava>
+	<disco>
+		<titulo>Demasié</titulo>
+		<fechaLanzamiento>2012</fechaLanzamiento>
+		<productor>Tiempo Real</productor>
+		<portada>demasie.jpg</portada>
+		<tracklist>
+			<track>
+				<cancion>No Gires</cancion>
+				<duracion>2:44</duracion>
+			</track>
+			<track>
+				<cancion>Calor</cancion>
+				<duracion>3:42</duracion>
+			</track>
+			<track>
+				<cancion>Ritual</cancion>
+				<duracion>3:37</duracion>
+			</track>
+			<track>
+				<cancion>No Te Conozco</cancion>
+				<duracion>3:38</duracion>
+			</track>
+			<track>
+				<cancion>Amantes De Fuego</cancion>
+				<duracion>3:12</duracion>
+			</track>
+			<track>
+				<cancion>Templo</cancion>
+				<duracion>3:43</duracion>
+			</track>
+			<track>
+				<cancion>Radioactivo</cancion>
+				<duracion>2:39</duracion>
+			</track>
+			<track>
+				<cancion>Miedo</cancion>
+				<duracion>4:03</duracion>
+			</track>
+			<track>
+				<cancion>Confusión</cancion>
+				<duracion>3:35</duracion>
+			</track>
+			<track>
+				<cancion>Despeinados</cancion>
+				<duracion>3:33</duracion>
+			</track>
+			<track>
+				<cancion>Disco</cancion>
+				<duracion>3:15</duracion>
+			</track>
+		</tracklist>
+	</disco>
+	<disco>
+		<titulo>Arriva</titulo>
+		<fechaLanzamiento>2014</fechaLanzamiento>
+		<productor>Tiempo Real</productor>
+		<portada>arriva.jpg</portada>
+		<tracklist>
+			<track>
+				<cancion>Oh, Oui Oui</cancion>
+				<duracion>3:22</duracion>
+			</track>
+			<track>
+				<cancion>Fan</cancion>
+				<duracion>3:32</duracion>
+			</track>
+			<track>
+				<cancion>Fantasmas</cancion>
+				<duracion>4:02</duracion>
+			</track>
+			<track>
+				<cancion>Salta</cancion>
+				<duracion>3:20</duracion>
+			</track>
+			<track>
+				<cancion>Fiesta</cancion>
+				<duracion>3:42</duracion>
+			</track>
+			<track>
+				<cancion>Subimos</cancion>
+				<duracion>3:27</duracion>
+			</track>
+			<track>
+				<cancion>Reina</cancion>
+				<duracion>3:16</duracion>
+			</track>
+			<track>
+				<cancion>Ilegal</cancion>
+				<duracion>4:12</duracion>
+			</track>
+			<track>
+				<cancion>Playa</cancion>
+				<duracion>3:38</duracion>
+			</track>
+			<track>
+				<cancion>Navidad</cancion>
+				<duracion>4:03</duracion>
+			</track>
+		</tracklist>
+	</disco>
+	<disco>
+		<titulo>Safari Emocional</titulo>
+		<fechaLanzamiento>2016</fechaLanzamiento>
+		<productor>Hooke Management</productor>
+		<portada>safari.jpg</portada>
+		<tracklist>
+			<track>
+				<cancion>NingunoDos</cancion>
+				<duracion>4:05</duracion>
+			</track>
+			<track>
+				<cancion>Entre el Cielo y el Mar</cancion>
+				<duracion>3:57</duracion>
+			</track>
+			<track>
+				<cancion>Sonia y Selena</cancion>
+				<duracion>3:37</duracion>
+			</track>
+			<track>
+				<cancion>Los Amantes</cancion>
+				<duracion>4:42</duracion>
+			</track>
+			<track>
+				<cancion>Flow</cancion>
+				<duracion>4:05</duracion>
+			</track>
+			<track>
+				<cancion>Americana</cancion>
+				<duracion>5:02</duracion>
+			</track>
+			<track>
+				<cancion>Chicas</cancion>
+				<duracion>4:27</duracion>
+			</track>
+			<track>
+				<cancion>Vietnam</cancion>
+				<duracion>3:34</duracion>
+			</track>
+			<track>
+				<cancion>Momentos</cancion>
+				<duracion>3:30</duracion>
+			</track>
+			<track>
+				<cancion>Club</cancion>
+				<duracion>3:52</duracion>
+			</track>
+			<track>
+				<cancion>Metales Nocturnos</cancion>
+				<duracion>3:22</duracion>
+			</track>
+			<track>
+				<cancion>Callada</cancion>
+				<duracion>4:34</duracion>
+			</track>
+		</tracklist>
+	</disco>
+	<disco>
+		<titulo>Furor</titulo>
+		<fechaLanzamiento>2018</fechaLanzamiento>
+		<productor>Hook Management</productor>
+		<portada>furor.jpg</portada>
+		<tracklist>
+			<track>
+				<cancion>Un Nuevo Giro</cancion>
+				<duracion>3:40</duracion>
+			</track>
+			<track>
+				<cancion>El Sitio Perfecto</cancion>
+				<duracion>3:39</duracion>
+			</track>
+			<track>
+				<cancion>La Ruta del Amor</cancion>
+				<duracion>3:37</duracion>
+			</track>
+			<track>
+				<cancion>Las Noches Fugaces</cancion>
+				<duracion>4:09</duracion>
+			</track>
+			<track>
+				<cancion>Nada Personal</cancion>
+				<duracion>3:46</duracion>
+			</track>
+			<track>
+				<cancion>400 Bailes</cancion>
+				<duracion>3:33</duracion>
+			</track>
+			<track>
+				<cancion>Satánica</cancion>
+				<duracion>4:13</duracion>
+			</track>
+			<track>
+				<cancion>12yMedio</cancion>
+				<duracion>3:47</duracion>
+			</track>
+			<track>
+				<cancion>Medalla</cancion>
+				<duracion>2:54</duracion>
+			</track>
+			<track>
+				<cancion>Adiós</cancion>
+				<duracion>3:19</duracion>
+			</track>
+		</tracklist>
+	</disco>
+	<disco>
+		<titulo>Hortera</titulo>
+		<fechaLanzamiento>2020</fechaLanzamiento>
+		<productor>Hook Management</productor>
+		<portada>hortera.jpg</portada>
+		<tracklist>
+			<track>
+				<cancion>Hortera</cancion>
+				<duracion>3:26</duracion>
+			</track>
+			<track>
+				<cancion>Loco</cancion>
+				<duracion>3:23</duracion>
+			</track>
+			<track>
+				<cancion>Luces De Neón</cancion>
+				<duracion>2:33</duracion>
+			</track>
+			<track>
+				<cancion>Molar</cancion>
+				<duracion>2:55</duracion>
+			</track>
+			<track>
+				<cancion>Mi Mejor Momento</cancion>
+				<duracion>3:30</duracion>
+			</track>
+			<track>
+				<cancion>Ciervos</cancion>
+				<duracion>2:44</duracion>
+			</track>
+			<track>
+				<cancion>Ritos Exóticos</cancion>
+				<duracion>3:37h</duracion>
+			</track>
+			<track>
+				<cancion>PlisDonGou</cancion>
+				<duracion>3:08</duracion>
+			</track>
+			<track>
+				<cancion>La Culpa</cancion>
+				<duracion>3:16</duracion>
+			</track>
+			<track>
+				<cancion>Kit Kat</cancion>
+				<duracion>3:24</duracion>
+			</track>
+		</tracklist>
+	</disco>
+</VarryBrava>
